@@ -7,3 +7,5 @@ GitPong allows for collaboration without geographical boundaries.
 It can be used when teams are co-located as well when they are distributed.
 
 **Another cool thing I just learned is Markdown!***
+
+**We are the champions of Git**
